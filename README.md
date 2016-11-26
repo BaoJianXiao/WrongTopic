@@ -3,4 +3,6 @@
 
 ![首页](home.jpg)
 ![拍摄错题](get.jpg)
+![拍摄错题](draw.jpg)
+![拍摄错题](save.jpg)
 ![提取题库](select.jpg)
