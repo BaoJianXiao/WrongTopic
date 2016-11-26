@@ -190,7 +190,7 @@ body {
 
 .main{
   box-sizing: border-box;
-  padding: 4px;
+  padding: 0px;
 }
 .questionItem{
   background-color: #FFFFFF;
@@ -449,10 +449,10 @@ body {
 }
 .paintContainer{
   position: relative;
+  padding: 0px;
 }
 .paint{
   position: absolute;
-  position:absolute;
   top:48px;
   left:0px;
 }
@@ -591,7 +591,7 @@ body {
   border-top-right-radius: 8px;
 }
 .seletionHome{
-  padding: 0;
+  padding: 4px;
   text-align: center;
   section{
     ul{
